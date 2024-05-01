@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Narcís Matas Mas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **C# / Unity**
+
+- 👨‍💻 All of my 3D projects are available at [ArtStation/Narcis_Matas](https://www.artstation.com/narcis_matas)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/narcis_matas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narcis_matas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/n_matas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n_matas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nmatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nmatas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
