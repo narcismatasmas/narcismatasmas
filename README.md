@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narcís Matas Mas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **C# / Unity**
+<h3 align="center">A passionate frontend developer from Barcelona</h3>
 
 - 👨‍💻 All of my 3D projects are available at [ArtStation/Narcis_Matas](https://www.artstation.com/narcis_matas)
 
